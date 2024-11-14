@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gelopong
+- Project Manager
 - 👀 I’m interested in web development (full stack) 
 - 🌱 Had a little background into coding back in college
 - 📫 I’m looking to collaborate on anything that is related to web development
